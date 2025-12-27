@@ -1,5 +1,6 @@
 # 6.VERIFICATION-OF-MAXIMUM-POWER-TRANSFER-THEOREM
-
+## NAME: HIMALINI S
+## REF NO: 25017504
 **AIM:**
 
 To measure the power absorbed in a load and to verify that the power absorbed in a load is maximum only when load resistance is equal to the source resistance.
@@ -25,41 +26,15 @@ In a simpler form the circuit may contain a voltage source VS having internal re
 The maximum power transfer theorem tells us that the load should be equal in magnitude to the source resistance for maximum power to be absorbed by the load.
 
 **CIRCUIT DIAGRAM: FOR MAXIMUM POWER TRANSFER THEOREM:**
+<img width="726" height="1280" alt="image" src="https://github.com/user-attachments/assets/d97b1aac-e3ee-4565-8613-50effaf4a33c" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/18d570ed-179c-45f5-8cda-1c44d594c29b" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/bc4639ff-f17a-4e32-9803-92161be8f374" />
+
 
 
 **MODEL GRAPH:**
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/d6ca10d9-f9f4-40d7-b760-c6d468693788" />
 
-Resistance (RL) in ohm
-
-**TABULATION:**
- 
-**TABLE (1) :FOR THEORETICAL CALCULATION: Rth =750 Ω**
-
-S.No	Load
-Resistance(RL) in ohm	Load
-Current (IL) in mA	Load
-voltage (VL) in volts	Load Power (PL) in watts
-1.				
-2.				
-3.				
-4.				
-5.				
-
-
-**TABLE (2): FOR PRACTICAL CALCULATION**
-
-S.No	Load
-Resistance(RL) in ohm	Load
-Current (IL) in amps	Load
-voltage (VL) in volts	Load Power (PL) in watts
-1.				
-2.				
-3.				
-4.				
-5.				
-
-
-**MODEL CALCULATION:**
 
 **PROCEDURE:**
 
